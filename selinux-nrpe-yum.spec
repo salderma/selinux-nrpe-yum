@@ -10,6 +10,7 @@ Release:        1%{?dist}
 Summary:        SELinux Policy NRPE for check_yum/check_updates
 
 Group:          Systems Environment/Policy
+BuildArch:	noarch
 License:        BSD
 URL:            https://github.com/whizzit/selinux-nrpe-yum
 #Source0:       https://github.com/
